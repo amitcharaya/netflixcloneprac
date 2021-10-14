@@ -6,4 +6,4 @@ return (
 </div>
 )
 }
-export default HomeScreen;npm
+export default HomeScreen;
