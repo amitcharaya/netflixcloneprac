@@ -1,4 +1,4 @@
-import Header from 'ui/Header';
+import Header from "ui/Header";
 function HomeScreen(){
 return (
 <div>
@@ -6,4 +6,4 @@ return (
 </div>
 )
 }
-export default HomeScreen;
+export default HomeScreen;npm
