@@ -1,6 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
-import HomePage from "Pages/HomePage";
+import React from "react"
+import HomePage from "pages/HomePage"
 function App() {
   return (
     <div className="App">
